@@ -52,6 +52,6 @@ streamlit.dataframe(my_data_rows)
 
 #Secondary text entrybox 
 
-fruit_choice2 = streamlit.text_input('what fruit would you like add ?', 'jackfruit')
+fruit_choice2 = streamlit.text_input('What fruit would you like add ?', 'jackfruit')
 streamlit.write('thanks for adding', fruit_choice)
 
