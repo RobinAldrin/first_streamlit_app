@@ -53,7 +53,7 @@ except URLError as e:
 
 #for Stopping 
 
-streamlit.stop()
+#streamlit.stop()
 
 streamlit.header("Robert's Fruit load list contains : ")
 #Snowflake related function
